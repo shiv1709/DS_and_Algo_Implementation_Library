@@ -1,4 +1,11 @@
 // C++ program for implementation of optimized Bubble Sort by iterative method
+
+/*
+***************************
+Author@Shiv Pratap Singh
+***************************
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long int ll;
