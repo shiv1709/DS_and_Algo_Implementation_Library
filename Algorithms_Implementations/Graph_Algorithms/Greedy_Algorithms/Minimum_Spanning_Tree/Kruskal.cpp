@@ -1,8 +1,11 @@
-#include <iostream>
-#include <vector>
-#include <utility>
-#include <algorithm>
+//C++ Program for Linked List Representation of given Binary Tree(BT)
+/*
+***************************
+Author@Shiv Pratap Singh
+***************************
+*/
 
+#include<bits/stdc++.h>
 using namespace std;
 const int MAX = 1e4 + 5;
 int id[MAX], nodes, edges;
