@@ -61,8 +61,6 @@ printmst(parent,graph);
 }
 int main()
 {
-//cout<<"Enter no. of nodes \n";
-//cin>>V;
 int graph[V][V];
 cout<<"Enter connections with weight in matrix form\n";
 for(int i=0;i<V;i++)
