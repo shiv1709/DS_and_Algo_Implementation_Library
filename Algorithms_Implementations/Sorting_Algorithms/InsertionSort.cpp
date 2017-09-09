@@ -1,6 +1,5 @@
 // C++ program for implementation of Insertion Sort by iterative method
 
-//C++ Program for Linked List Representation of given Binary Tree(BT)
 /*
 ***************************
 Author@Shiv Pratap Singh
