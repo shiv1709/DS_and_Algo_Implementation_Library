@@ -1,4 +1,5 @@
-//C++ Program for Linked List Representation of given Binary Tree(BT)
+//C++ Program for Implementation of Linear Search
+
 /*
 ***************************
 Author@Shiv Pratap Singh
