@@ -1,3 +1,9 @@
+//C++ Program for Linked List Representation of given Binary Tree(BT)
+/*
+***************************
+Author@Shiv Pratap Singh
+***************************
+*/
 #include<bits/stdc++.h>
 using namespace std;
 int binknapsack(int cap,int val[],int wt[],int n)
