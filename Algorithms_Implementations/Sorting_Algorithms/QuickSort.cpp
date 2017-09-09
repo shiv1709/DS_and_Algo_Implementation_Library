@@ -1,4 +1,10 @@
-/* C++ implementation of QuickSort */
+// C++ implementation of QuickSort
+
+/*
+***************************
+Author@Shiv Pratap Singh
+***************************
+*/
 
 #include <bits/stdc++.h>
 using namespace std;
