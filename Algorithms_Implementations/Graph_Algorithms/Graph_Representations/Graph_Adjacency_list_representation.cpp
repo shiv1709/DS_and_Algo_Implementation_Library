@@ -1,11 +1,10 @@
-//C++ Program for Linked List Representation of given Binary Tree(BT)
+// A C++ Program for Implementation of adjacency list representation of graphs
+
 /*
 ***************************
 Author@Shiv Pratap Singh
 ***************************
 */
-
-// A C++ Program to demonstrate adjacency list representation of graphs
  
 #include <bits/stdc++.h>
 using namespace std;
