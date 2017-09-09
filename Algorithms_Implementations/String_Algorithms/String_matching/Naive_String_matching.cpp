@@ -1,9 +1,11 @@
-//C++ Program for Linked List Representation of given Binary Tree(BT)
+//C++ Program for Implementation of Naive String Matching Algorithm
+
 /*
 ***************************
 Author@Shiv Pratap Singh
 ***************************
 */
+
 #include<bits/stdc++.h>
 using namespace std;
 void searchpatt(char text[],char pat[])
