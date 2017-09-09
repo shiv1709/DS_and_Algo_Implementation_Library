@@ -1,9 +1,11 @@
-//C++ Program for Linked List Representation of given Binary Tree(BT)
+//C++ Program for Implementation of Floyd Warshall Algorithm
+
 /*
 ***************************
 Author@Shiv Pratap Singh
 ***************************
 */
+
 #include<bits/stdc++.h>
 using namespace std;
 #define V 4
